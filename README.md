@@ -29,7 +29,7 @@ quick cross-check analyses & visualisations).
 - 5. "reviews_brief.csv" - Summary Review data and Listing ID (to facilitate time-based analytics and visualisations linked to a listing).
 - 6. " neighbourhoods.csv" -- Neighbourhood list for geo filter. Sourced from city or open source GIS files.
 
-## Tools and libraies used:
+## Tools and libraries used:
 - Python
 - jupyter notebook
 - pandas
